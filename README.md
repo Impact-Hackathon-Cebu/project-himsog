@@ -1,3 +1,3 @@
-# ADAM
+# Project Himsog
 
-- Apprehensive Dangerous Area Mapping
+- Centralized Data for malnourished children
